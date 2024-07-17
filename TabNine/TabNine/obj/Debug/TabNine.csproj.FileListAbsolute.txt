@@ -1,0 +1,10 @@
+F:\Programming\Apps\C#\TabNine\TabNine\bin\Debug\TabNine.exe.config
+F:\Programming\Apps\C#\TabNine\TabNine\bin\Debug\TabNine.exe
+F:\Programming\Apps\C#\TabNine\TabNine\bin\Debug\TabNine.pdb
+F:\Programming\Apps\C#\TabNine\TabNine\obj\Debug\TabNine.csproj.AssemblyReference.cache
+F:\Programming\Apps\C#\TabNine\TabNine\obj\Debug\TabNine.MainWindow.resources
+F:\Programming\Apps\C#\TabNine\TabNine\obj\Debug\TabNine.Properties.Resources.resources
+F:\Programming\Apps\C#\TabNine\TabNine\obj\Debug\TabNine.csproj.GenerateResource.cache
+F:\Programming\Apps\C#\TabNine\TabNine\obj\Debug\TabNine.csproj.CoreCompileInputs.cache
+F:\Programming\Apps\C#\TabNine\TabNine\obj\Debug\TabNine.exe
+F:\Programming\Apps\C#\TabNine\TabNine\obj\Debug\TabNine.pdb

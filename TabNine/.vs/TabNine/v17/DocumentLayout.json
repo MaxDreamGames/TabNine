@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Programming\\Apps\\C#\\TabNine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3E78D0-6C9E-4FB2-9B2A-19AE6E162109}|TabNine\\TabNine.csproj|F:\\Programming\\Apps\\C#\\TabNine\\tabnine\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B3E78D0-6C9E-4FB2-9B2A-19AE6E162109}|TabNine\\TabNine.csproj|solutionrelative:tabnine\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|TabNine||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3E78D0-6C9E-4FB2-9B2A-19AE6E162109}|TabNine\\TabNine.csproj|F:\\Programming\\Apps\\C#\\TabNine\\tabnine\\filecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3E78D0-6C9E-4FB2-9B2A-19AE6E162109}|TabNine\\TabNine.csproj|solutionrelative:tabnine\\filecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3E78D0-6C9E-4FB2-9B2A-19AE6E162109}|TabNine\\TabNine.csproj|f:\\programming\\apps\\c#\\tabnine\\tabnine\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3E78D0-6C9E-4FB2-9B2A-19AE6E162109}|TabNine\\TabNine.csproj|solutionrelative:tabnine\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3E78D0-6C9E-4FB2-9B2A-19AE6E162109}|TabNine\\TabNine.csproj|F:\\Programming\\Apps\\C#\\TabNine\\tabnine\\mainwindow.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3E78D0-6C9E-4FB2-9B2A-19AE6E162109}|TabNine\\TabNine.csproj|solutionrelative:tabnine\\mainwindow.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3E78D0-6C9E-4FB2-9B2A-19AE6E162109}|TabNine\\TabNine.csproj|F:\\Programming\\Apps\\C#\\TabNine\\tabnine\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{6B3E78D0-6C9E-4FB2-9B2A-19AE6E162109}|TabNine\\TabNine.csproj|solutionrelative:tabnine\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3E78D0-6C9E-4FB2-9B2A-19AE6E162109}|TabNine\\TabNine.csproj|f:\\programming\\apps\\c#\\tabnine\\tabnine\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 83,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "F:\\Programming\\Apps\\C#\\TabNine\\TabNine\\MainWindow.cs",
+              "RelativeDocumentMoniker": "TabNine\\MainWindow.cs",
+              "ToolTip": "F:\\Programming\\Apps\\C#\\TabNine\\TabNine\\MainWindow.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "TabNine\\MainWindow.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T17:39:46.622Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.cs",
+              "DocumentMoniker": "F:\\Programming\\Apps\\C#\\TabNine\\TabNine\\MainWindow.cs",
+              "RelativeDocumentMoniker": "TabNine\\MainWindow.cs",
+              "ToolTip": "F:\\Programming\\Apps\\C#\\TabNine\\TabNine\\MainWindow.cs",
+              "RelativeToolTip": "TabNine\\MainWindow.cs",
+              "ViewState": "AQIAAB8BAAAAAAAAAAAAAO0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T09:36:49.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileController.cs",
+              "DocumentMoniker": "F:\\Programming\\Apps\\C#\\TabNine\\TabNine\\FileController.cs",
+              "RelativeDocumentMoniker": "TabNine\\FileController.cs",
+              "ToolTip": "F:\\Programming\\Apps\\C#\\TabNine\\TabNine\\FileController.cs",
+              "RelativeToolTip": "TabNine\\FileController.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAADwv28AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T08:41:21.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TabNine",
+              "DocumentMoniker": "F:\\Programming\\Apps\\C#\\TabNine\\TabNine\\TabNine.csproj",
+              "RelativeDocumentMoniker": "TabNine\\TabNine.csproj",
+              "ToolTip": "F:\\Programming\\Apps\\C#\\TabNine\\TabNine\\TabNine.csproj",
+              "RelativeToolTip": "TabNine\\TabNine.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-23T10:07:16.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "F:\\Programming\\Apps\\C#\\TabNine\\TabNine\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "TabNine\\Properties\\Resources.resx",
+              "ToolTip": "F:\\Programming\\Apps\\C#\\TabNine\\TabNine\\Properties\\Resources.resx",
+              "RelativeToolTip": "TabNine\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-06-21T17:16:36.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.Designer.cs",
+              "DocumentMoniker": "F:\\Programming\\Apps\\C#\\TabNine\\TabNine\\MainWindow.Designer.cs",
+              "RelativeDocumentMoniker": "TabNine\\MainWindow.Designer.cs",
+              "ToolTip": "F:\\Programming\\Apps\\C#\\TabNine\\TabNine\\MainWindow.Designer.cs",
+              "RelativeToolTip": "TabNine\\MainWindow.Designer.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAABRwBYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T10:15:55.389Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
