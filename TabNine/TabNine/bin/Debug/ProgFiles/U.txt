@@ -1,3 +1,4 @@
+uh-huh 1 {}
 unity 1 {и}
 unreal 1 {engine}
 U 0 {} 
@@ -223,7 +224,6 @@ ugt 0 {}
 UH 0 {} 
 Uhde 0 {} 
 UHF 0 {} 
-uh-huh 0 {} 
 uhlan 0 {} 
 Uhland 0 {} 
 uhlans 0 {} 

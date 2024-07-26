@@ -1,6 +1,6 @@
-hello 1 {} 
+hello 2 {}
+hope 2 {he's,мы}
 he's 1 {right}
-hope 1 {he's}
 how 1 {}
 H 0 {} 
 h. 0 {} 

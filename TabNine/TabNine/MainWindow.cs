@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Reflection;
 using System.Windows.Forms;
 using Microsoft.Win32;
 
@@ -19,7 +18,7 @@ namespace TabNine
     "ч", "ш", "щ", "ъ", "ы", "ь", "э", "ю", "я"
 };
         string[] punctuationMarks = new string[] {
-            ".", ",", ";", ":", "!", "?", "(", ")", "[", "]", "{", "}", "...", "/", "@", "#", "&", "^", "%", "$", "№", "_", "=", "+"
+            ".", ",", ";", ":", "!", "?", "(", ")", "[", "]", "{", "}", "...", "/", "@", "#", "&", "^", "%", "$", "№", "_", "=", "+", "\""
         };
         string[] punctuationMarksForSpace = new string[] {
             ".", ",", ";", ":", "!", "?", ")", "]", "}"
@@ -43,7 +42,7 @@ namespace TabNine
         private void MainWindow_Load(object sender, EventArgs e)
         {
             StartingInit();
-            SetAutoRunValue(true, Assembly.GetExecutingAssembly().Location);
+            //SetAutoRunValue(true, Assembly.GetExecutingAssembly().Location);
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e)
@@ -238,6 +237,11 @@ namespace TabNine
                 listBox.Visible = false;
                 return;
             }
+            if (query[query.Length - 1] == '"')
+            {
+                listBox.Visible = false;
+                return;
+            }
 
             foreach (var item in punctuationMarks)
             {
@@ -309,6 +313,11 @@ namespace TabNine
             {
                 if (perviousQuery.Contains(item))
                     perviousQuery = perviousQuery.Replace(item, "");
+                if (words.Length >= 3)
+                {
+                    if (words[words.Length - 3].Contains(item))
+                        words[words.Length - 3] = words[words.Length - 3].Replace(item, "");
+                }
             }
             Console.WriteLine(perviousQuery.ToLower());
             if (listBox.SelectedItem == listBox.Items[listBox.Items.Count - 1])
@@ -323,11 +332,13 @@ namespace TabNine
             }
             if (words.Length >= 3)
             {
-                if (!("1234567890".Contains(words[words.Length - 3]) || "1234567890".Contains(words[words.Length - 3])))
+                if (!("1234567890".Contains(words[words.Length - 3][0]) || "1234567890".Contains(words[words.Length - 2][0])) || words[words.Length - 3][0] != '"' || words[words.Length - 2][0] != '"')
                 {
                     FileController.AddRalatedWord(words[words.Length - 3].ToLower(), words[words.Length - 2].ToLower());
 
                 }
+                else if (words[words.Length - 3][0] == '"' || words[words.Length - 2][0] == '"') return;
+                Console.WriteLine(words[words.Length - 3]);
             }
             List<string> ralatedWords = FileController.GetRalatedWords(perviousQuery.ToLower());
             if (ralatedWords == null)
